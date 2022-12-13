@@ -97,29 +97,43 @@ li a{
 
 }
 
+h1{
+  text-align: center;
+}
+
+#productos{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+
+
 #articulo1 {
-  height: 200px;
-  width: 500px;
+  height: 300px;
+  width: 300px;
   background-color: beige;
   border:1px solid black;
+  border-radius: 50%;
 }
 #articulo2 {
-  height: 200px;
-  width: 500px;
+  height: 300px;
+  width: 300px;
   background-color: beige;
   border:1px solid black;
+  border-radius: 50%;
+}
+#articulo3 {
+  height: 300px;
+  width: 300px;
+  background-color: beige;
+  border:1px solid black;
+  border-radius: 50%;
 }
 
-aside{
-    height: 300px;
-    width: 200px;
-    border: 1px solid black;
-    background-color: cornflowerblue;
-    float: right; 
-
-}
 footer {
   border: 1px solid black;
   background-color: darkcyan;
   height: 100px;
+  margin-top: 50px;
 }
