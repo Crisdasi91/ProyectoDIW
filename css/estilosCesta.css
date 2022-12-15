@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> d9332ef3b804aa668bc51aefe016656b6aeaa230
 body{
   margin: 0;
 }
@@ -77,29 +73,6 @@ ul li:hover {
   cursor: pointer;
   font-size: 20px;
 }
-<<<<<<< HEAD
-=======
-
-.search-form {
-  display: flex;
-  align-items: center;
-}
-
-.search-form input {
-  width: 100%;
-  padding: 0.5em;
-  font-size: 1em;
-  border: none;
-  border-radius: 5px;
-  margin-top: 40px;
-  margin-right: 20px;
-  margin-left: -45px;
-}
-
-.search-form img {
-  width: 20px;
-}
->>>>>>> d9332ef3b804aa668bc51aefe016656b6aeaa230
 
   section {
     border: 1px solid black;
