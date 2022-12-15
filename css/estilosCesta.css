@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> d9332ef3b804aa668bc51aefe016656b6aeaa230
 body{
   margin: 0;
 }
@@ -73,10 +77,33 @@ ul li:hover {
   cursor: pointer;
   font-size: 20px;
 }
+<<<<<<< HEAD
+=======
+
+.search-form {
+  display: flex;
+  align-items: center;
+}
+
+.search-form input {
+  width: 100%;
+  padding: 0.5em;
+  font-size: 1em;
+  border: none;
+  border-radius: 5px;
+  margin-top: 40px;
+  margin-right: 20px;
+  margin-left: -45px;
+}
+
+.search-form img {
+  width: 20px;
+}
+>>>>>>> d9332ef3b804aa668bc51aefe016656b6aeaa230
 
   section {
     border: 1px solid black;
-    background-color: lavender;
+    background-color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -100,6 +127,7 @@ ul li:hover {
      width: 60em;
      font-family: verdana, arial, helvetica, sans-serif;
        font-size: 1em;
+       background-color: #D6D6D6;
    }
    
    #tabla_compra th{
