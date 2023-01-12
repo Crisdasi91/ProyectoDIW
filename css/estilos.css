@@ -169,9 +169,15 @@ footer {
   background-color: #86c5d8;
   width: 100%;
   height: 80px;
+  
 
 }
 
 footer p {
   font-size: 0.9em;
+  margin-top: 20px;
+}
+
+footer #copyright {
+  margin-top: 38px;
 }
